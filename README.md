@@ -3,6 +3,8 @@
 [cljfmt](https://github.com/weavejester/cljfmt)
 is a tool for formatting Clojure code idiomatically.
 
+Update: cljfmt now has support for native image building.
+
 The need arose to run cljfmt quickly without a JVM. That is all this
 repo provides. Any piece of code in it is copied from
 `weavejester/cljfmt` or from `clojure.stacktrace`. The code was only
